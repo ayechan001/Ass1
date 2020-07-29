@@ -28,21 +28,23 @@
     <ImageView
         android:id="@+id/iv2"
         android:layout_width="wrap_content"
-        android:layout_height="25dp"
+        android:layout_height="32dp"
         android:src="@drawable/ic_baseline_star_24"
         android:layout_below="@+id/iv"
         android:layout_toRightOf="@+id/tv"
         android:layout_marginTop="20dp"
         android:layout_marginLeft="120dp"
+
         />
     <TextView
         android:id="@+id/tv3"
         android:layout_width="wrap_content"
-        android:layout_height="25dp"
+        android:layout_height="32dp"
         android:layout_below="@+id/iv"
         android:layout_toRightOf="@+id/iv2"
         android:text="41"
-        android:layout_marginTop="20dp"
+        android:textSize="20sp"
+        android:layout_marginTop="22dp"
         />
     <LinearLayout
         android:weightSum="3"
@@ -103,6 +105,6 @@
         android:layout_below="@+id/ll2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps."
+        android:text="Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps.Lake Oeschinen lies at the foot of the Blumlisalp in the Bernese Alps."
         />
 </RelativeLayout>
